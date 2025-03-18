@@ -44,7 +44,7 @@ Author: Arunkumar P.
      - Dart DevTools
      - Android Studio or Visual Studio Code with Flutter extensions
 
-## Screenshots
+## Screenshot
 <img width="606" alt="Screenshot 2025-03-18 at 1 39 16 PM" src="https://github.com/user-attachments/assets/00fa3682-8021-45d1-b291-0c5c2069e28a" />
 
 
